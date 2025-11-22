@@ -1,9 +1,3 @@
-Perfecto, te armo un **README.md profesional**, claro y presentable para GitHub, adaptado exactamente a tu proyecto y a lo que se ve en tus capturas (terreno voxel, personaje 3D, inventario, scripts, etc.).
-
-Podés copiar y pegar esto directamente en tu repo.
-
----
-
 # 🧱 **GameWithUnity – Proyecto en Unity (3D + Voxel Terrain + Inventario)**
 
 ### Un prototipo de juego 3D en Unity que incluye generación procedural de mundo tipo “voxel”, movimiento de personaje en tercera persona, cámara dinámica y un sistema básico de inventario.
